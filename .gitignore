@@ -1,5 +1,5 @@
 # ignore macOS files that show up sometimes
 .DS_Store
-
+.idea
 # don't track the data directory
 data/
