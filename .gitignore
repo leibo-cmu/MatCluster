@@ -1,0 +1,5 @@
+# ignore macOS files that show up sometimes
+.DS_Store
+
+# don't track the data directory
+data/
